@@ -20,8 +20,8 @@ It utilizes **MoveIt! Motion Planning Framework in ROS2 Humble** to navigate fro
 ✅ **Docker setup** for easy deployment  
 
 ## 🎥 Demonstration
-📌 **Pick & Place Motion Execution:** [YouTube / Google Drive Link](#)  
-📌 **MoveIt Setup Assistant Configuration:** [YouTube / Google Drive Link](#)  
+📌 **Pick & Place Motion Execution:** [YouTube / Google Drive Link](https://drive.google.com/file/d/1kHcS7kFjkhUFbJwtoFVx8vWU9qWltUUM/view?usp=drive_link)  
+📌 **MoveIt Setup Assistant Configuration:** [YouTube / Google Drive Link](https://drive.google.com/file/d/14clT_OkzqwR2S2ZiLz7Acor9MKTjNzmT/view?usp=drive_link)  
 
 ## 🛠️ Installation & Running
 ### 1️⃣ **Set up Docker & ROS2 Humble**
