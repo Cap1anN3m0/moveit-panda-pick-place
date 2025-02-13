@@ -41,4 +41,5 @@ docker start panda_container
 ### 3️⃣ **Run the Motion Planning Demo**
 source install/setup.bash
 ros2 launch panda_configuration demo.launch.py
+ros2 run hello_moveit
 
